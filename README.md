@@ -30,8 +30,8 @@ I specialize in frontend web development and aspire to bring innovative and impa
 
 ## 🔍 Currently Working On
 
-- 🎯 **MERN Stack Applications**  
 - 🌱 **Learning and Building with Next.js**  
+- 🎯 **MERN Stack Applications**  
 - 🌱 **Learning Cloud Services & AI**  
 - 🚀 **Building Scalable Web Solutions**
 
