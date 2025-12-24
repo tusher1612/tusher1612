@@ -1,50 +1,44 @@
 # 🌟 Mohammed Fackruddin Tusher
 
-## 👋 Welcome to my GitHub!
+## 👋 Frontend Engineer | React & Next.js Specialist
 
-Hi there! I'm **Mohammed Fackruddin Tusher** (he/him), a passionate web developer dedicated to shaping the future of web technologies. Let’s build, innovate, and shine together in this amazing journey!
+Hi, I’m **Mohammed Fackruddin Tusher** (he/him), a Frontend Engineer building scalable web and mobile apps using React, Next.js, and React Native. I focus on clean architecture, state management, and measurable impact in real-world applications.
 
-📍 **Location**: Merul Badda, Dhaka, Bangladesh  
-📧 **Email**: [fackruddin.tusher@gmail.com](mailto:fackruddin.tusher@gmail.com)  
-🌐 **Portfolio**: [Visit My Portfolio](https://mohammedtusher.com/#about)  
-🔗 **LinkedIn**: [in/mohammed-fackruddin-tusher-2359a5215](https://www.linkedin.com/in/mohammed-fackruddin-tusher-2359a5215)  
-💼 **GitHub**: [tusher1612](https://github.com/tusher1612)
-
----
-
-## 🛠️ Technologies & Tools
-
-- 🌐 **Frontend**: HTML, CSS, JavaScript, React, **Next.js**, Tailwind CSS
-- 🗄️ **Backend**: Node.js, Express, MongoDB, Appwrite
-- ⚡ **State Management**: Zustand, Redux
-- 🛠️ **Dev Tools**: Git, GitHub, VS Code, Docker
-- ☁️ **Cloud**: AWS, Azure, GCP
+📍 Dhaka, Bangladesh  
+📧 [fackruddin.tusher@gmail.com](mailto:fackruddin.tusher@gmail.com)  
+🌐 [Portfolio](https://mohammedtusher.com/#about)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-fackruddin-tusher-2359a5215)  
+💼 [GitHub](https://github.com/tusher1612)
 
 ---
 
-## 🚀 What I Do
+## 🛠️ Technologies
 
-I specialize in frontend web development and aspire to bring innovative and impactful solutions through clean, user-friendly, and efficient code. I am always eager to learn new technologies and improve my skills to stay at the forefront of the tech industry.
-
----
-
-## 🔍 Currently Working On
-
-- 🌱 **Learning and Building with Next.js**  
-- 🎯 **MERN Stack Applications**  
-- 🌱 **Learning Cloud Services & AI**  
-- 🚀 **Building Scalable Web Solutions**
+- **Frontend:** React, Next.js, React Native, TypeScript, Tailwind CSS, HTML5, CSS3/SCSS  
+- **State Management:** Redux, Zustand, Context API  
+- **Backend / APIs:** Node.js, Express, MongoDB, REST, GraphQL  
+- **Testing & Dev Tools:** Jest, React Testing Library (RTL), Git, CI/CD, Postman  
+- **Cloud / Deployment:** AWS, Azure, GCP, Docker
 
 ---
 
-## 📣 Let's Connect!
+## 🚀 Selected Projects
 
-Feel free to reach out to me for collaborations, project ideas, or simply to chat about web development and technology!
-
----
-
-💬 **Pronouns**: he/him
+- **AnonymousHealth.com** – Admin dashboard & mobile app (Next.js & React Native), improving patient workflow reliability by 50%  
+- **InstaCircle** – Scalable web dashboard (Next.js + Tailwind) for role-based, mobile-first community management  
+- **MERN Stack Applications** – Web apps with optimized UX & performance; increased client engagement by 35–40%  
 
 ---
 
-⚡ Fun fact: I’m a web enthusiast who believes that the future is digital! Let’s make it a reality together.
+## 🌱 Currently Learning / Building
+
+- Advanced **Next.js** features and performance optimizations  
+- **React Native** mobile apps with offline-first UX  
+- **Cloud integrations** and CI/CD pipelines for scalable web apps  
+
+---
+
+## 💬 Let’s Connect
+
+Reach out for collaborations, frontend projects, or tech discussions!
+
