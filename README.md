@@ -6,7 +6,7 @@ Hi there! I'm **Mohammed Fackruddin Tusher** (he/him), a passionate web develope
 
 📍 **Location**: Merul Badda, Dhaka, Bangladesh  
 📧 **Email**: [fackruddin.tusher@gmail.com](mailto:fackruddin.tusher@gmail.com)  
-🌐 **Portfolio**: [Visit My Portfolio](https://myportofolio-cyan.vercel.app/#about)  
+🌐 **Portfolio**: [Visit My Portfolio](https://mohammedtusher.com/#about)  
 🔗 **LinkedIn**: [in/mohammed-fackruddin-tusher-2359a5215](https://www.linkedin.com/in/mohammed-fackruddin-tusher-2359a5215)  
 💼 **GitHub**: [tusher1612](https://github.com/tusher1612)
 
