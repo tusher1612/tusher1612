@@ -8,7 +8,7 @@ Hi, I’m **Mohammed Fackruddin Tusher** (he/him), a Frontend Engineer building 
 📧 [fackruddin.tusher@gmail.com](mailto:fackruddin.tusher@gmail.com)  
 🌐 [Portfolio](https://mohammedtusher.com/#about)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-fackruddin-tusher-2359a5215)  
-💼 [GitHub](https://github.com/tusher1612)
+
 
 ---
 
